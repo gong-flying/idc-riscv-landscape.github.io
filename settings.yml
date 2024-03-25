@@ -1,15 +1,15 @@
 global:
   name: RISC-V Ecosystem Interactive Landscape
   short_name: RISC-V
-  repo: riscv-admin/riscv-landscape
-  website: https://landscape.riscv.org
+  repo: gong-flying/idc-riscv-landscape.github.io
+  website: https://idc-riscv-landscape.github.io
   short_domain: l.riscv.org
-  company_url: https://riscv.org/
-  email: info@riscv.org
-  self: https://www.crunchbase.com/organization/riscv
+  #company_url: https://riscv.org/
+  email: gong_flying@163.com
+  #self: https://www.crunchbase.com/organization/riscv
   hide_no_best_practices: true
   meta:
-    title: RISC-V Interactive Landscape
+    title: IDC RISC-V Interactive Landscape
     description: RISC-V Landscape Info
     twitter: '@risc_v'
     google_site_verification: test
